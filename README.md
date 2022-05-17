@@ -1,10 +1,10 @@
 ### Hi there 👋     I'm Ankit Kumar Gupta
 # 💫About Me :
-🔭 I’m currently working on sharping my knowledge on React and Redux.
-🌱 I’m currently learning DSA.
-🔰 Always ready to evolve and learn new technologies.
-💬 Ask me about anything
-📫 How to reach me: ankitkumargupta262@gmail.com
+🔭 I’m currently working on sharping my knowledge on React and Redux.<br>
+🌱 I’m currently learning DSA.<br>
+🔰 Always ready to evolve and learn new technologies.<br>
+💬 Ask me about anything.<br>
+📫 How to reach me: ankitkumargupta262@gmail.com<br>
 ❤ I love learning in public.
 
 # 💻Tech Stack
