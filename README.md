@@ -18,6 +18,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankit-Gupta0&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div>
+  <a href="https://github.com/Ankit-Gupta0">
+   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Gupta0&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit-Gupta0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Gupta0&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankit-Gupta0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 
 <!--
 **Ankit-Gupta0/Ankit-Gupta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
