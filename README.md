@@ -1,12 +1,10 @@
 ### Hi there 👋     I'm Ankit Kumar Gupta
-# 💫About Me :
-🔭 I’m currently working on sharping my knowledge on React and Redux.<br>
-🌱 I’m currently learning DSA.<br>
+
 🔰 Always ready to evolve and learn new technologies.<br>
 💬 Ask me about anything.<br>
 📫 How to reach me: iamankitgupta007@gmail.com<br>
 ❤ I love learning in public.<br>
-👨‍💻 My leetcode profile https://leetcode.com/ankitgupta0/
+👨‍💻 My leetcode profile https://leetcode.com/imankitg/
 
 ## Tech Stack 💻
 #### Languages
@@ -53,15 +51,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 # 📊GitHub Stats :
-![Stats](https://github-readme-stats.vercel.app/api?username=Ankit-Gupta0&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Gupta0&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Gupta0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=imankitg&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=imankitg&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imankitg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankit-Gupta0&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imankitg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="https://github.com/Ankit-Gupta0/Ankit-Gupta0/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/imankitg/imankitg/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 
