@@ -3,7 +3,6 @@
 🔰 Always ready to evolve and learn new technologies.<br>
 💬 Ask me about anything.<br>
 📫 How to reach me: iamankitgupta007@gmail.com<br>
-❤ I love learning in public.<br>
 👨‍💻 My leetcode profile https://leetcode.com/imankitg/
 
 ## Tech Stack 💻
